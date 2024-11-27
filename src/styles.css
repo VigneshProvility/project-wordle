@@ -230,3 +230,20 @@ h1 {
     transform: translateY(0%);
   }
 }
+
+.keys {
+  width: 34px;
+  height: 34px;
+  font-size: 14px;
+  font-weight: 700;
+  background: var(--color-gray-900);
+  border-radius: 5px;
+}
+
+.keys-second {
+  margin-left: 1em;
+}
+
+.keys-third {
+  margin-left: 3em;
+}
